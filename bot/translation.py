@@ -46,7 +46,7 @@ For More Details Click Help Button Below..
 @C_Y_B_E_R_101
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Bot filter </code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/C_Y_B_E_R_101">Karan Singh</a></i></b>
 
