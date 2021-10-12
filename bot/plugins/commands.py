@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/C_Y_B_E_R_101"
+                                    'Dev⚡', url="https://t.me/C_Y_B_E_R_101"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/C_Y_B_E_R_101"
+                                    'My dev⚡', url="https://t.me/C_Y_B_E_R_101"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/C_Y_B_E_R_101"
+                                    'Dev⚡', url="https://t.me/C_Y_B_E_R_101"
                                 )
                         ]
                     ]
