@@ -64,6 +64,10 @@ async def start(bot, update):
                     ]
                 )
             )
+                           buttons = [[
+                                   InlineKeyboardButton('Channel', url='https://t.me/aurous')
+                                      ]]
+                                      reply_markup = InlineKeyboardMarkup(buttons)
 
         elif file_type == "audio":
 
