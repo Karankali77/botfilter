@@ -41,12 +41,7 @@ async def start(bot, update):
                                     'Dev⚡', url="https://t.me/C_Y_B_E_R_101"
                                 )       
                         ]
-                        [    
-                            InlineKeyboardButton
-                                (
-                                   'Channel🔥', url="https://t.me/aurous"
-                                 )
-                         ]
+                        
                     ]
                 )
             )
