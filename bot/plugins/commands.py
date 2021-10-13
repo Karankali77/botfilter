@@ -39,8 +39,11 @@ async def start(bot, update):
                             InlineKeyboardButton
                                 (
                                     'Dev⚡', url="https://t.me/C_Y_B_E_R_101"
-                                    'Join🔰', url="https://t.me/aurous"
                                 )
+                            InlineKeyboardButton
+                                (
+                                     'Join🔰', url="https://t.me/aurous"
+                                 )
                         ]
                     ]
                 )
